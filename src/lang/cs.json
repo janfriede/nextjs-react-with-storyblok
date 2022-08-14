@@ -1,0 +1,56 @@
+{
+  "aboutMe": {
+    "title": "O mně",
+    "description": "Jsem Frontend vývojář s 3+ letou praxí ve vývoji webových aplikací. Aktuálně pracuji s javascriptovými frameworky React a Vue.js. Snažím se držet krok s vývojovými trendy a začlenit je v kódu, který napíšu."
+  },
+  "skills": {
+    "react": "V nejpoužívanějším frameworku současnosti jsem pracoval na vývoji videoplatformy, několika eshopů nebo třeba rozšíření chrome a teams.",
+    "vue": "Vue.js je čím dál populárnější a já osobně jsem ho využil při vývoji Project Management aplikace a aplikace monitorujici aktivitu na firewallech.",
+    "grapqhl": "Pokud je potřeba napojit webovou aplikaci na api nebo přímo na databázi volím zpravidla Graphql.",
+    "nodejs": "Jsem ale schopen vytvořit backend aplikace popřípadě api server čistě v javascriptu i za pomoci Node",
+    "postgresql": "K tomu je potřeba vyznat se alespoň trochu v databázi. V PostgreSQL jsem schopen psát i složitější příkazy.",
+    "mysql": "MySQL jsem použil parkrát pro webové stránky s menší strukturou."
+  },
+  "latestProjects": {
+    "title": "Poslední projekty",
+    "description1": "Programovat jsem začal v php, už na střední škole. Po nástupu do Denevy s.r.o. jsem prošel několika projekty kde se využíval framework Laravel.",
+    "description2": "Postupem času mě ale začalo daleko více bavit řešení uživatelského rozhraní a to se bez Javascriptu v dnešní době již neobejde. Tvořit single-page aplikace jsem začal současně v React i Vue.js, protože mi obojí přišlo možnostmi velmi zajímavé a ani dnes si nedokážu vybrat, který framework mám radši.",
+    "description3": "V obou jsem prošel několika projekty, v Reactu byl nejzásadnější projekt nové videoplatformy <strong>iVysílání</strong> v České televizi, který měl release v prosinci 2021. ",
+    "description4": "Ve Vue.js jsem se podílel na vývoji aplikací <strong>Interconnector</strong> a <strong>Firewall Auditor</strong> z oblasti automatizace kybernetické bezpečnosti u společnosti Synapsa Networks. V současné době pracuji jako Senior Vývojář na aplikaci projektového managementu <strong>Juno.one</strong>.",
+    "moreBtn": "Více o aplikaci zde",
+    "ct": {
+      "description": "Vývoj single-page-aplikace v Reactu + Typecriptu se server-side renderingem v Next.js podle kompletního designového zadání. Komunikace s REST API probíhala skrze GraphQL."
+    },
+    "synapsa": {
+      "description": "Rozdělení starší Laravel PHP aplikace na dvě samostatne části singe-page-aplikaci ve Vuejs a REST API v php podle designového a technického zadání. Práce na připojení na api k firewallům PaloAlto, Fortinet a Checkpoint."
+    },
+    "juno": {
+      "description": "Vývoj aplikace ve Vuejs + Typescriptu se server-side renderingem v PHP a napojením na REST API v Kotlinu. Funkční řešení aplikace zahrnující grafy, tabulky, rozsáhlé formuláře a pohyblivé a interaktivní komponenty."
+    }
+  },
+  "whatExpect": {
+    "title": "Co ode mne můžete čekat?",
+    "description": "Programování pro mě není jen práce, je to i můj největší koníček. Než jsem se specializoval na javascript řešení, vyvíjel jsem také v PHP (Laravel). Nyní ve volném čase zkouším aplikace v Kotlinu, Javě nebo Pythonu. Když nemám ani tak dost sestavuji a programuji jednoduché roboty Arduino. Snažím se také získat si větší nadhled v internetových technologiích obecně hlavně četbou odborné i neodborné literatury.",
+    "blockTitle": {
+      "communication": "Dobrá komunikace",
+      "code": "Kvalitní kód",
+      "motivation": "Motivace"
+    },
+    "blockDescription": {
+      "communication": "Raději pracuji v týmu než samostatně. Ať už se jedná o spolupráci na dálku či kontaktně v kanceláři. V minulosti jsem měl na starosti releasy aplikace a s tím spojené řízení komunikace napříč vývojovými týmy.",
+      "code": "Neustále se snažím vzdělávat v oboru a zkoušet nově vydané věci. Snažím se psát udržitelný kód nejlépe opřený o unit testování a typescript.",
+      "motivation": "V žebříčku mojí pracovní motivace je vždy hodně nahoře možnost učit se při práci novým věcem, technologiím i managementu projektu."
+    }
+  },
+  "contactMe": {
+    "title": "Kontaktujte mě!",
+    "subtitle": "Chcete se o mě dozvědět více?",
+    "form": {
+      "name": "Jméno",
+      "email": "Email",
+      "message": "Zpráva",
+      "send": "Odeslat",
+      "responseMessage": "Děkuji vám za zprávu. Ozvu se vám hned jak to bude možné!"
+    }
+  }
+}

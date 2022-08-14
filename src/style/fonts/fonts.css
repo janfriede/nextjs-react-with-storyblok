@@ -1,0 +1,33 @@
+/*Sora*/
+@font-face {
+    font-family: Sora-Regular;
+    font-style: normal;
+    font-weight: 200;
+    src: local('Sora-Regular Regular'), local('Sora-Regular'), url(./Sora/Sora-Regular.ttf) format('truetype');
+    font-display: swap;
+}
+@font-face {
+    font-family: Sora-Thin;
+    font-style: normal;
+    font-weight: 200;
+    src: local('Sora-Thin Thin'), local('Sora-Thin'), url(./Sora/Sora-Thin.ttf) format('truetype');
+    font-display: swap;
+}
+
+/*Poppins*/
+@font-face {
+    font-family: Poppins-Light;
+    font-style: normal;
+    font-weight: auto;
+    src: local('Poppins-Light Light'), local('Poppins-Light'), url(./Poppins/Poppins-Light.ttf) format('truetype');
+    font-display: swap;
+}
+
+/*Rock Salt*/
+@font-face {
+    font-family: RockSalt-Regular;
+    font-style: normal;
+    font-weight: auto;
+    src: local('RockSalt-Regular Regular'), local('RockSalt-Regular'), url(./RockSalt/RockSalt-Regular.ttf) format('truetype');
+    font-display: swap;
+}

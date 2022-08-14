@@ -1,0 +1,47 @@
+{
+  "aboutMe": {
+    "title": "About me",
+    "description": "I am Frontend developer with 3+ years experience in web application development. Currently I use mainly frameworks React and Vue.js. I am trying to keep up with new developing trends and incorporate them in the code I write."
+  },
+  "skills": {
+    "react": "I was developing a videoplatform app, several e-shops or for example chrome and teams extension in the most used framework today.",
+    "vue": "Vue.js is becoming more and more popular and I personally used it to develop a Project Management App and application that monitors activity on firewalls.",
+    "grapqhl": "If connection from api or database is needed in web application, I usually choose Graphql.",
+    "nodejs": "But I am able also create a backend application only in javascript using Node.",
+    "postgresql": "To do that, you need to know at least basic of database behavior. In PostgreSQL I am able to write even more complex commands.",
+    "mysql": "Couple times when I worked on website with smaller structure I also used MySQL."
+  },
+  "latestProjects": {
+    "title": "Latest projects",
+    "description1": "I started programming in php already in high school. Since joining Denevy s.r.o. I went through several project where Laravel framework was used.",
+    "description2": "However after some time I was enjoying working with user interface more and that was no longer possible without Javascript. I started developing single page apps in React and Vue.js at the same time because I found both very interesting and even today I can´t choose which framework I prefer more.",
+    "description3": "I was part of several project using both, In React was the most fundamental project of the new videoplatform <strong>iVysílání</strong> for Czech television, which had a release in December 2021.",
+    "description4": "In Vue.js I was working on <strong>Interconnector</strong> and <strong>Firewall Auditor</strong> applications in the field of cyber security automation at Synapsa Networks. And now I am working as Senior Developer on the project management application called <strong>Juno.one</strong>.",
+    "moreBtn": "More about app here"
+  },
+  "whatExpect": {
+    "title": "What you can expect from me?",
+    "description": "Coding is not just a job for me, it is also my biggest hobby. Before I specialized in javascript solutions I also developer in PHP (Laravel). Now in my free time I try apps in Kotlin, Java or Python. When I am not satisfied enough I assemble and program simple Arduino robots. I also try to gain a greater insight into Internet technologies in general. Mainly by reading non/scientific literature.",
+    "blockTitle": {
+      "communication": "Good communication",
+      "code": "Valuable code",
+      "motivation": "Motivation"
+    },
+    "blockDescription": {
+      "communication": "I prefer to work in a team than working alone. Whether the job is remote or there is contact in the office. In the past I was responsible to maintain communication between each development teams during release process. ",
+      "code": "I am constantly trying to educate myself when new technologies are coming and use them. I am also trying to write sustainable code, best based on unit testing and typescript.",
+      "motivation": "In my work motivation ranking there is always the opportunity to learn new things, technologies and project management tasks at the top."
+    }
+  },
+  "contactMe": {
+    "title": "Contact me!",
+    "subtitle": "Want to know more?",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send",
+      "responseMessage": "Thank's for your message. I'll get back to you as soon as possible!"
+    }
+  }
+}

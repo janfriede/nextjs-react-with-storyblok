@@ -1,0 +1,42 @@
+{
+  "name": "nextjs-portfolio-with-storyblok",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "ssl-proxy": "local-ssl-proxy --source 3010 --target 3000 --cert localhost.pem --key localhost-key.pem",
+    "generate-sb-types": "storyblok-generate-ts source=./components.{SB-ID}.json target=./src/types/storyblok"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^12.0.0",
+    "axios": "^0.27.2",
+    "classnames": "^2.3.1",
+    "i18next": "^21.6.11",
+    "next": "12.1.6",
+    "prettier": "^2.4.1",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-hook-form": "^7.6.2",
+    "react-i18next": "^11.15.4",
+    "react-jss": "^10.8.0",
+    "react-scripts": "4.0.3",
+    "react-type-animation": "^2.0.2",
+    "storyblok-js-client": "^4.5.2",
+    "typescript": "^4.4.4",
+    "web-vitals": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/next": "^9.0.0",
+    "@types/react": "^17.0.29",
+    "@types/react-dom": "^17.0.9",
+    "storyblok-generate-ts": "^1.4.1"
+  },
+  "author": "Jan Friede<email@janfriede.cz>"
+}

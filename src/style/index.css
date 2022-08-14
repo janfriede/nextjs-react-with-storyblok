@@ -1,0 +1,45 @@
+@import "fonts/fonts.css";
+
+html, body, *{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Poppins-Light, sans-serif;
+  color: #4d596f;
+  margin: 0;
+}
+body:before {
+  content: '';
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  background-attachment: scroll;
+  background-image: url(./bg.svg?v=38113e9a);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #FFFFFF;
+}
+
+h1, h2 {
+  font-family: Sora-Regular, sans-serif;
+}
+
+h1, h2, h3 {
+  color: #314163;
+}
+
+a {
+  opacity: 1;
+  color: #0f6261;
+  text-decoration: none;
+  transition: opacity ease-in-out 300ms;
+}
+a:hover {
+  opacity: 0.8;
+}

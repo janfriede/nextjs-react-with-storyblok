@@ -1,6 +1,6 @@
-## Storyblok
+Public version of my personal portfolio website.
 
-Public version of my personal portfolio website. 
+## Storyblok
 
 ### Generate storyblok types
 

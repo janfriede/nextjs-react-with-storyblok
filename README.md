@@ -1,5 +1,7 @@
 ## Storyblok
 
+Public version of my personal portfolio website. 
+
 ### Generate storyblok types
 
 First run command `storyblok pull-components --space={SPACE_ID}` in cmd. It will download json file 
